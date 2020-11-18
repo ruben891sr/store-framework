@@ -12,7 +12,7 @@
             "autoplay": {
                 "timeout": 7000,
                 "stopOnHover": true
-            }
+            } 
         }
     },
 
