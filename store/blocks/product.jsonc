@@ -27,10 +27,13 @@
     "children": [
       "product-images",
       "product-brand"
-    ],
-    "props":{
-      "height": 30,
-      "displayMode": "logo"
+    ]
+  },
+
+  "product-brand": {
+    "props": {
+      "displayMode": "logo",
+      "height": 30
     }
   },
 
