@@ -41,18 +41,18 @@
       "width": "20%"
     },
     "children": [
-"filter-navigator.v3"
+      "filter-navigator.v3"
     ]
   },
 
   "flex-layout.col#search": {
-    "children":[
+    "children": [
       "search-content"
     ]
   },
 
   "search-content": {
-    "blocks":["gallery", "not-found"]
+    "blocks": ["gallery", "not-found"]
   },
 
   "gallery": {
