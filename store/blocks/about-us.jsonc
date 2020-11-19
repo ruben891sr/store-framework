@@ -1,6 +1,6 @@
 {
     "store.custom#about-us": {
-        "block": [
+        "blocks": [
             "flex-layout.row#about-us"
         ]
     },
